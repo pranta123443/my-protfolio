@@ -1,0 +1,16 @@
+#hellow {
+    color: blue;
+    width: 50%;
+    text-align: right;
+}
+
+#myself {
+    color: rgb(156, 77, 90);
+    background-color: rgb(219, 195, 195);
+    width: 80%;
+    text-align-last: center;
+    border: 100px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 50px;
+}
